@@ -1,4 +1,4 @@
-site_name: Peter's Notizbuch
+site_name: Peter's Notebook
 repo_url: https://github.com/peterleimbach/peterleimbach.github.io/
 edit_uri: edit/main/docs/
 
@@ -43,13 +43,12 @@ plugins:
       enable_creation_date: true
 
 nav:
-- Home:
-    - index.md
-- AndroidAPSDocs:
-    - Tools: AndroidAAPSDocs-tools.md
-    - Markdown: markdown.md
 - T1D:
+    - Setup for Looping: setup-for-looping.md
     - Sport with AAPS: making-sport-with-AAPS.md
 - Linux:
     - Desktop: linux-desktop.md
     - SSH keys: generating-ssh-keys.md
+- AndroidAPSDocs:
+    - Tools: AndroidAAPSDocs-tools.md
+    - Markdown: markdown.md
