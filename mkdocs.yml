@@ -1,10 +1,17 @@
 site_name: Peter's Notizbuch
+repo_url: https://github.com/peterleimbach/peterleimbach.github.io/
+edit_uri: edit/main/docs/
+
 markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.superfences
   - admonition
   - pymdownx.details
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
 
 theme:
   name: material
@@ -14,14 +21,15 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+    - content.tooltips
     - content.code.copy
-  language: de
-  palette: 
-
+    - content.action.edit
+  language: de  
+  palette:
     # Palette toggle for light mode
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
@@ -44,3 +52,4 @@ nav:
     - Sport with AAPS: making-sport-with-AAPS.md
 - Linux:
     - Desktop: linux-desktop.md
+    - SSH keys: generating-ssh-keys.md
