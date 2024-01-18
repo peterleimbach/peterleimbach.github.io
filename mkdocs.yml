@@ -30,17 +30,17 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 plugins:
+  - search:
   - git-revision-date-localized:
       enable_creation_date: true
 
 nav:
 - Home:
     - index.md
-    - Introduction : 'introduction.md'
 - AndroidAPSDocs:
-    - Tools: tools.md
+    - Tools: AndroidAAPSDocs-tools.md
     - Markdown: markdown.md
 - T1D:
     - Sport with AAPS: making-sport-with-AAPS.md
 - Linux:
-    - Desktop: desktop.md
+    - Desktop: linux-desktop.md
