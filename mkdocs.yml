@@ -22,3 +22,12 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+plugins:
+  - search:
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+nav:
+- Home:
+    - index.md
+    - Introduction : 'introduction.md'
