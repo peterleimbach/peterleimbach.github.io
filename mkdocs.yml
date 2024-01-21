@@ -26,9 +26,9 @@ theme:
     - content.action.edit
   language: de  
   palette:
-    primary: green
     # Palette toggle for light mode
     - scheme: default
+      primary: green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
