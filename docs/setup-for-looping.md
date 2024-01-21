@@ -1,4 +1,4 @@
-# my setup for looping
+# setup for looping
 
 ## CGMS
 
