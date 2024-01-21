@@ -26,6 +26,7 @@ theme:
     - content.action.edit
   language: de  
   palette:
+    primary: green
     # Palette toggle for light mode
     - scheme: default
       toggle:
