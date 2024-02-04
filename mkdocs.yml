@@ -49,6 +49,3 @@ nav:
 - Linux:
     - Desktop: linux-desktop.md
     - SSH keys: generating-ssh-keys.md
-- AndroidAPSDocs:
-    - Tools: AndroidAAPSDocs-tools.md
-    - Markdown: markdown.md

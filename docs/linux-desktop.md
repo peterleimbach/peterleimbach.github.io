@@ -15,3 +15,11 @@ Before that, I had good experiences with both Manjaro and Arch Linux.
 I have now switched to GNOME 43.9 as my desktop, having previously worked a lot with KDE and various tiling window managers (Hyprland, Qtile).
 
 GNOME has the advantage for me that the operation is well thought out and not many different customization options are offered. I don't want to invest any working time in customizing the desktop, at least when the alternative is as good as GNOME.
+
+## Window Manager
+
+I like to play with Qtile or Hyprland windows manager.
+
+Qtile has the benefit that it is written in python and it is relativly easy to extend it by myself.
+
+Hyprland on the other hand is the rising star in Wayland as successor for X11.
