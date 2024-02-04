@@ -15,13 +15,15 @@ The difficulty here is that the prerequisites that someone brings with them and 
 
 Since I assume that experienced top athletes with T1D who use AAPS are unlikely to look it up here, I deliberately set the bar low for ourselves when writing and for you when reading and using it, so that kopefully many people can benefit from it.
 
-To be concrete and give you something you can test yourself I arrange the explanaiton around a concrete example and explain to you they action, reactions and effects. This is one the one hand critical as my settings may not be the same as yours but on the other hand if I would only write some generic blah blah blah here it would not help either.
+To be concrete and give you something you can test yourself I arrange the explanaiton around a concrete example and explain to you they actions, reactions and effects. This is on the one hand critical as my settings may not be the same as yours. On the other hand if I would only write some generic blah blah blah here it would not help you either.
 
 !!! note annotation "take a friend with you - at least on your first trials"
 
     A gerneral good idea can be to take a good friend with you on the first rides who knows you and what to do if your going low - just in case.
+
     This is especially important if you are not experienced in T1D.
-    Always keep in mind please: arrival comes before speed! Safety for you and the others in road traffic is very, very important.
+
+    Always keep in mind please: arrival comes before speed! Safety for you and the others in road traffic is the top priotrity.
 
 ## Example
 
