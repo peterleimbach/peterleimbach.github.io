@@ -45,7 +45,7 @@ plugins:
 nav:
 - T1D:
     - Setup for Looping: setup-for-looping.md
-    - Sport with AAPS: making-sport-with-AAPS.md
+    - Cycling with AAPS: cycling-with-AAPS.md
 - Linux:
     - Desktop: linux-desktop.md
     - SSH keys: generating-ssh-keys.md
