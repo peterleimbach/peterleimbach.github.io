@@ -60,6 +60,11 @@ The time required for me is about 1 hour per update, including installation on t
 
 ## Nightscout Server
 
+I use Nightscout server in version 15.02 when I write this article as my reporting server for my T1D data.
+
+Furthermore I use it as integration server for other tools like M5 Stack. They are accessing the public REST API of my server for secured by a token and the necessary access rights.
+
+I am self-hosting the server in a virtual server environment on Debian 12 in a Docker environment. The setup is relatively easy if you have got some Linux background as myself.
 
 ## optional display in office and bed room -> M5 Stack
 
