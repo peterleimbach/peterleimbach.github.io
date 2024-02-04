@@ -1,21 +1,21 @@
 # cycling with AAPS
 
-Here I want to address the topic of cycling with AAPS.
+Here I want to address the topic of cycling with AAPS. The aim is to show you how AAPS can help you to continue cycling or even inspirate you to start doing it.
 
-The aim is to show you how AAPS can help you to continue cycling or even inspirate you to start doing it. It is relatively common for new type 1 diabetics to ask whether exercise is still possible for them, even if the answer in the general type 1 diabetics training courses is actually a clear yes. Exercise is not only good for healthy people, but also for type 1 diabetics and even moderate exercise can even help to stabilize the blood sugar curve overall.
+It is relatively common for new type 1 diabetics to ask whether exercise is still possible for them, even if the answer in the general type 1 diabetics training courses is actually a clear yes. Exercise is not only good for healthy people, but also for type 1 diabetics and even moderate exercise can even help to stabilize the blood sugar curve overall.
 
 !!! danger "no consultance here - only an concrete example and some reflections of my own experiences"
-    I am only a T1D patient and *not* and an educated diabetes consultant. I give only an example of my experience but *no* consultance here.
+    I am only a T1D patient and **not** and an educated diabetes consultant. I give only an example of my experience but **no** consultance here.
 
 !!! note annotation "consult with your diabetes team after reading"
 
-    Please consult your diabetes team before applying what you have read here. They know your T1D setting best and can give you further tips or even suggest a different approach in your particular case.
+    Please consult your diabetes team before applying what you have read here. They know your T1D settings best and can give you further tips or even suggest a different approach in your particular case.
 
 The difficulty here is that the prerequisites that someone brings with them and the expectations of what cycling means to them are very different.
 
-Since we can assume that experienced top athletes with T1D who use AAPS are unlikely to look it up here, we deliberately set the bar low for ourselves when writing and for you when reading and using it, so that kopefully many people can benefit from it.
+Since I assume that experienced top athletes with T1D who use AAPS are unlikely to look it up here, I deliberately set the bar low for ourselves when writing and for you when reading and using it, so that kopefully many people can benefit from it.
 
-To be concrete and give you something you can test yourself we arrange the explanaiton around a concrete example and explain to you they action, reactions and effects. This is one the one hand critical as my settings may not be the same as yours but on the other hand if I would only write some generic blah blah blah here it would not help either.
+To be concrete and give you something you can test yourself I arrange the explanaiton around a concrete example and explain to you they action, reactions and effects. This is one the one hand critical as my settings may not be the same as yours but on the other hand if I would only write some generic blah blah blah here it would not help either.
 
 !!! note annotation "take a friend with you - at least on your first trials"
 
@@ -27,15 +27,15 @@ To be concrete and give you something you can test yourself we arrange the expla
 
 Let's take about 60 minutes of cycling on a flat route with a moderate heart rate as an example.
 
-1. we take a flat route in order to have an even load for the first exercise. This is not about performance, but purely about learning how you should react to changes in blood glucose.
-1. we take the heart rate as an indicator of the load, as it is easy to see whether you are under load or not.
-1. we set ourselves the goal of doing a relaxed lap around the neighborhood and focus on staying within our target range during the lap. In my case, this would be 70 <= x <= 180 mg/dl.
+1. I take a flat route in order to have an even load for the first exercise. This is not about performance, but purely about learning how you should react to changes in blood glucose.
+1. I take the heart rate as an indicator of the load, as it is easy to see whether you are under load or not.
+1. I set myself the goal of doing a relaxed lap around the neighborhood and focus on staying within my target range during the lap. In my case, this would be 70 <= x <= 180 mg/dl.
 
-We **don't** take the speed, as this is heavily dependent on personal physical conditions as well as the bike and surface used. It is therefore not very meaningful.
+I **don't** take the speed, as this is heavily dependent on personal physical conditions as well as the bike and surface used. It is therefore not very meaningful.
 
 You should know from the diabetes training courses you have attended that during endurance sports cycling, the insulin active in the body works significantly better than during times without physical exertion. The insulin active in the body is referred to as insulin on board (IOB). It is our most important parameter when cycling with T1D.
 
-We try to keep the IOB as low as possible at the start and during exercise. IOB should be around 0 or even slightly negative. You can get it there by not eating 3-4 hours before exercise. In the beginning it can also be helpful to exercise in the morning before breakfast, as with the right profile you should always have around 0 for IOB in the morning.
+I try to keep the IOB as low as possible at the start and during exercise. IOB should be around 0 or even slightly negative. You can get it there by not eating 3-4 hours before exercise. In the beginning it can also be helpful to exercise in the morning before breakfast, as with the right profile you should always have around 0 for IOB in the morning.
 
 AAPS shows us the IOB value on the home screen on the left under the blood glucose value.
 
@@ -45,9 +45,13 @@ AAPS shows us the IOB value on the home screen on the left under the blood gluco
 
     If you ignore this rule, you can still go cycling, but it will be much more difficult to keep your blood sugar levels in balance, so it is better to save this for later tests after several successful simple tests.
 
-As you should know from the diabetes training courses, you should reduce the basal rate during exercise. The factor is individual. I have found a value of 50% in tests to be suitable for me.
+As you should know from the diabetes training courses, you should reduce the basal rate during exercise. The factor is individual. I have found a value of 50% in tests to be suitable for me for moderate cycling.
 
 In AAPS, you should therefore change your profile to 50% before exercise and keep it active until the end of exercise. Some people even do it a certain amount of time before, e.g. 1 hour. Unfortunately, the pre-run is also individual. We will come to the post-run later.
+
+!!! note "adapation of percentage depending on kind of activity"
+
+    If I ride a more demanding lap, I reduce the percentage further. The same applies if I'm riding at a more moderate pace, e.g. on a trip out for ice cream with the family.
 
 You should use two carbohydrates during exercise.
 
