@@ -2,6 +2,8 @@
 
 As requirement you need a Python 3 environment available.
 
+The commands are for Linux but similar on a Windows machine.
+
 ## create a virtual python environment
 
 It's better to install the required Python libraries in a separate virtual Python environment for the project instead of in the local machine environement.
@@ -34,11 +36,9 @@ $ source .venv/bin/activate
 
 mkdocs are the library needed in the basic installation.
 
-!!! note
+If you know that you want to use the nice material theme you better directly install the mkdocs-material library. It will automatically install mkdocs as requirement. 
 
-    If you know that you want to use the nice material theme you better directly install the mkdocs-material library. It will automatically install mkdocs as requirement. 
-    
-    It's the same command but with ```mkdocs-material``` as library name.
+It's the same command but with ```mkdocs-material``` as library name.
 
 ``` sh
 $ pip install mkdocs
