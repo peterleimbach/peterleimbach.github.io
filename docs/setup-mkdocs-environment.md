@@ -6,7 +6,7 @@ The commands are for Linux but similar on a Windows machine.
 
 ## create a virtual python environment
 
-It's better to install the required Python libraries in a separate virtual Python environment for the project instead of in the local machine environement.
+It's better to install the required Python libraries in a separate virtual Python environment for the project instead of local machine environement.
 
 Otherwise it can clash with other project libraries.
 
