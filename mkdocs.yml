@@ -49,3 +49,5 @@ nav:
 - Linux:
     - Desktop: linux-desktop.md
     - SSH keys: generating-ssh-keys.md
+- Markdown:
+    - Setup mkdocs environment: setup-mkdocs-environment.md
