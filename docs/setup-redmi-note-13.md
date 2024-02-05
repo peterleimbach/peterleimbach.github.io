@@ -2,7 +2,7 @@
 
 After one week of usage I can confirm that the Xiaomi Redmi Note 13 4G works very well for me with MIUI Global 14.0.3 and AAPS 3.2.0.1.
 
-The only limitation for me would be that I did not receive any or only sporadic CGMS data during an event with about 600 people in an auditorium. However, I believe that this is not due to the device itself, but to the number of Bluetooth devices in a room. As soon as I left the room, reception was immediately restored. Since I rarely attend such events and only eat food that slowly enters my bloodstream, I don't care.
+The only limitation for me would be that I did not receive any or only sporadic     CGMS data during an event with about 600 people in an auditorium. However, I believe that this is not due to the device itself, but to the number of Bluetooth devices in a room and other smartphone would have the issue too. As soon as I left the room, reception was immediately restored. Since I rarely attend such events and only eat food that slowly enters my bloodstream, I don't care.
 
 It was important to make one final change in the security app (not security settings)  otherwise the AAPS app would be stopped by one part of the MIUI operating system of the smartphone and then automatically restarted by another part. That worked too but to be honest is a bit strange for me.
 
