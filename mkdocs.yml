@@ -45,6 +45,7 @@ plugins:
 nav:
 - T1D:
     - Setup for Looping: setup-for-looping.md
+    - Setup Redmi Note 13: setup-redmi-note-13.md
     - Cycling with AAPS: cycling-with-AAPS.md
 - Linux:
     - Desktop: linux-desktop.md
