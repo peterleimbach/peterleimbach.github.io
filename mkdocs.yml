@@ -51,4 +51,5 @@ nav:
     - Desktop: linux-desktop.md
     - SSH keys: generating-ssh-keys.md
 - Markdown:
+    - Resizing images: resizing-images.md
     - Setup mkdocs environment: setup-mkdocs-environment.md
