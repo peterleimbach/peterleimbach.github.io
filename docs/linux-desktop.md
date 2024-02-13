@@ -2,7 +2,7 @@
 
 ## my prefered setups
 
-### Debian 12 pplus Gnome 43.9
+### Debian 12 plus Gnome 43.9
 
 I now like to use Debian 12 on the Linux desktop with the Gnome desktop manager.
 
@@ -14,7 +14,7 @@ I have now switched to GNOME 43.9 as my desktop, having previously worked a lot 
 
 GNOME has the advantage for me that the operation is well thought out and not many different customization options are offered. I don't want to invest any working time in customizing the desktop, at least when the alternative is as good as GNOME.
 
-Before that, I had good experiences with both Manjaro and Arch Linux.
+Before that, I had good experiences with both Manjaro and Arch Linux on the desktop.
 
 ### Arch linux with Qtile window manager
 
