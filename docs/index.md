@@ -1,7 +1,5 @@
 # Peter's Notebook
 
-This is a test.
-
 This is my public notebook, where I write down texts that I use elsewhere.
 
 I do it in a public form because I like to share information and nothing secret is published here.
