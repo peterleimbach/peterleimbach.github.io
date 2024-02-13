@@ -53,4 +53,5 @@ nav:
     - SSH keys: generating-ssh-keys.md
 - Markdown:
     - Resizing images: resizing-images.md
+    - Renaming images: renaming-images.md
     - Setup mkdocs environment: setup-mkdocs-environment.md
