@@ -1,4 +1,6 @@
-# Peter's Notebook Test
+# Peter's Notebook
+
+This is a test.
 
 This is my public notebook, where I write down texts that I use elsewhere.
 
