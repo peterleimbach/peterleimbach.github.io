@@ -1,6 +1,6 @@
 # renaming images
 
-Sometimes I made a lot of screenshots and want then to change the standard prefix in German "Bildschirmfoto vom" to be changed to a more content oriented prefix.
+Sometimes I make a lot of screenshots and want then to change the standard prefix in German "Bildschirmfoto vom" to be changed to a more content oriented prefix.
 
 Therefore the rename command on Linux is very handy as you can use a regex to replace strings in the filename.
 
