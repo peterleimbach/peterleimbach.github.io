@@ -51,6 +51,7 @@ nav:
 - Linux:
     - Desktop: linux-desktop.md
     - SSH keys: generating-ssh-keys.md
+    - Node-RED User: adding-password-for-nodered.md
 - Markdown:
     - Resizing images: resizing-images.md
     - Renaming images: renaming-images.md
