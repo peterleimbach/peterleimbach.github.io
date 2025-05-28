@@ -45,11 +45,14 @@ plugins:
 nav:
 - T1D:
     - Setup for Looping: setup-for-looping.md
-    - blood glucose as data field: blood-glucose-as-data-field.md
-    - Sport with AAPS: making-sport-with-AAPS.md
+    - Setup Redmi Note 13: setup-redmi-note-13.md
+    - Cycling with AAPS: cycling-with-AAPS.md
+    - Simple Charting DynISF: simple-charting-dynisf.md
 - Linux:
     - Desktop: linux-desktop.md
     - SSH keys: generating-ssh-keys.md
-- AndroidAPSDocs:
-    - Tools: AndroidAAPSDocs-tools.md
-    - Markdown: markdown.md
+    - Node-RED User: adding-password-for-nodered.md
+- Markdown:
+    - Resizing images: resizing-images.md
+    - Renaming images: renaming-images.md
+    - Setup mkdocs environment: setup-mkdocs-environment.md
