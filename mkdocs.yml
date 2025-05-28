@@ -45,6 +45,7 @@ plugins:
 nav:
 - T1D:
     - Setup for Looping: setup-for-looping.md
+    - blood glucose as data field: blood-glucose-as-data-field.md
     - Sport with AAPS: making-sport-with-AAPS.md
 - Linux:
     - Desktop: linux-desktop.md
