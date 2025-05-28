@@ -47,6 +47,7 @@ nav:
     - Setup for Looping: setup-for-looping.md
     - Setup Redmi Note 13: setup-redmi-note-13.md
     - Cycling with AAPS: cycling-with-AAPS.md
+    - blood glucose as data field: blood-glucose-as-data-field.md
     - Simple Charting DynISF: simple-charting-dynisf.md
 - Linux:
     - Desktop: linux-desktop.md
