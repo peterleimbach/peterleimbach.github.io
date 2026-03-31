@@ -1,6 +1,4 @@
-# Liste der Guidetouren am Mittwoch Abend 2026
-
-Treffpunkt ist immer Beauner Platz in Bensheim.
+# Basic-Touren am Mittwoch Abend
 
 ## 01.04.2026
 
